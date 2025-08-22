@@ -1,36 +1,98 @@
-# 央视频道
-CCTV1,http://ivi.bupt.edu.cn/hls/cctv1.m3u8
-CCTV2,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-CCTV3,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-CCTV4,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-CCTV5,http://ivi.bupt.edu.cn/hls/cctv5.m3u8
-CCTV5+,http://ivi.bupt.edu.cn/hls/cctv5plus.m3u8
-CCTV6,http://ivi.bupt.edu.cn/hls/cctv6.m3u8
-CCTV7,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-CCTV8,http://ivi.bupt.edu.cn/hls/cctv8.m3u8
-CCTV9,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-CCTV10,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-CCTV11,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-CCTV12,http://ivi.bupt.edu.cn/hls/cctv12.m3u8
-CCTV13,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-CCTV14,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-CCTV15,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-CCTV16,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
 
-# 地方卫视
-北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
-天津卫视,http://ivi.bupt.edu.cn/hls/tjtv.m3u8
-江苏卫视,http://ivi.bupt.edu.cn/hls/jstv.m3u8
-浙江卫视,http://ivi.bupt.edu.cn/hls/zjtv.m3u8
-湖南卫视,http://ivi.bupt.edu.cn/hls/hunantv.m3u8
-广东卫视,http://ivi.bupt.edu.cn/hls/gdtv.m3u8
-深圳卫视,http://ivi.bupt.edu.cn/hls/sztv.m3u8
-山东卫视,http://ivi.bupt.edu.cn/hls/sdtv.m3u8
-安徽卫视,http://ivi.bupt.edu.cn/hls/ahtv.m3u8
-湖北卫视,http://ivi.bupt.edu.cn/hls/hbtv.m3u8
-江西卫视,http://ivi.bupt.edu.cn/hls/jxtv.m3u8
-黑龙江卫视,http://ivi.bupt.edu.cn/hls/hljtv.m3u8
-辽宁卫视,http://ivi.bupt.edu.cn/hls/lnrtv.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
+http://ivi.bupt.edu.cn/hls/cctv5.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
+http://ivi.bupt.edu.cn/hls/cctv17.m3u8
+http-user-agent="Mozilla/5.0"
+http-referer="http://ivi.bupt.edu.cn"
+
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://satellitepull.cnr.cn/live/wxhunanws/playlist.m3u8
+http-user-agent="Mozilla/5.0"
+
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
+http-user-agent="Mozilla/5.0"
+
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+http-user-agent="Mozilla/5.0"
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://satellitepull.cnr.cn/live/w
 
 # 特色频道
 CGTN英语,https://0472.org/hls/cgtn.m3u8
@@ -45,3 +107,4 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 成龙电影,http://iptv.jxpan.vip:18888/aio/huya/11342386
 李连杰电影,http://iptv.jxpan.vip:18888/aio/huya/11342390
 甄子丹电影,http://iptv.jxpan.vip:18888/aio/huya/11352935
+
