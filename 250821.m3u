@@ -35,24 +35,11 @@ http://php.cqshushu.ggff.net/jzb.php?id=cctv16&公众号【医工学习日志】
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://php.cqshushu.ggff.net/jzb.php?id=cctv17&公众号【医工学习日志】
 
-#卫视频道
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://1.94.31.214/php/hntv.php?id=hnws
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-
 #电影频道
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影频道",周星驰电影
 http://iptv.jxpan.vip:18888/aio/huya/11342412
-#http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影频道",林正英电影
 http://iptv.jxpan.vip:18888/aio/huya/11342421
-#http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影频道",刘德华电影
 http://iptv.jxpan.vip:18888/aio/huya/11342424
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影频道",古天乐电影
@@ -99,27 +86,21 @@ http://luobo.bkpcp.top/yy/1354889019
 http://iptv.jxpan.vip:18888/aio/huya/11342428
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png" group-title="电影频道",欧美大片
 http://iptv.jxpan.vip:18888/aio/douyu/2793084
-#http://zzy789.xyz/douyu1.php?id=2793084
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png" group-title="电影频道",邵氏影院
 http://iptv.jxpan.vip:18888/aio/douyu/4246519
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png" group-title="电影频道",冰冰影剧
 http://iptv.jxpan.vip:18888/aio/douyu/74374
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png" group-title="电影频道",斗鱼港剧
 http://iptv.jxpan.vip:18888/aio/douyu/5061550
-#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png" group-title="电影频道",周杰伦MV
-http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+
 
 #电视剧频道
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png" group-title="电视剧频道",延禧攻略
 http://iptv.jxpan.vip:18888/aio/huya/26355864
-#http://182.40.120.195/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/琅琊榜.png" group-title="电视剧频道",琅琊榜
-#http://zby.xjqxz.top/lyb/live.m3u8
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="电视剧频道",新三国
 http://iptv.jxpan.vip:18888/aio/huya/11352944
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png" group-title="电视剧频道",新水浒传
 http://iptv.jxpan.vip:18888/aio/huya/11342384
-#http://zby.xjqxz.top/shz/live.m3u8
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="电视剧频道",新三国（斗鱼）
 http://iptv.jxpan.vip:18888/aio/douyu/5908256
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧频道",少年包青天第一部
@@ -128,8 +109,6 @@ http://luobo.bkpcp.top/yy/1356043677
 http://luobo.bkpcp.top/yy/1382736814
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰1.png" group-title="电视剧频道",神探狄仁杰第一部
 http://iptv.jxpan.vip:18888/aio/huya/11352958
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰2.png" group-title="电视剧频道",神探狄仁杰第二部
-#http://iptv.jxpan.vip:18888/aio/douyu/431460
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰3.png" group-title="电视剧频道",神探狄仁杰第三部
 http://iptv.jxpan.vip:18888/aio/huya/11342425
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="电视剧频道",爱情公寓
@@ -158,10 +137,6 @@ http://iptv.jxpan.vip:18888/aio/huya/11352940
 http://iptv.jxpan.vip:18888/aio/huya/29465862
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/庆余年.png" group-title="电视剧频道",庆余年
 http://iptv.jxpan.vip:18888/aio/huya/11352960
-#http://live.iill.top/huya.php?id=11352960
-#http://dns.yiandrive.com:15907/huya/11352960
-#http://live.metshop.top/huya/11352960
-#http://www.52sw.top:678/play/huya.php?id=11352960
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/精绝古城.png" group-title="电视剧频道",鬼吹灯之精绝古城
 http://iptv.jxpan.vip:18888/aio/huya/11352871
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/怒晴湘西.png" group-title="电视剧频道",鬼吹灯之怒晴湘西
@@ -180,48 +155,6 @@ http://luobo.bkpcp.top/yy/1352475619
 http://luobo.bkpcp.top/yy/1382749903
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记续集.png" group-title="电视剧频道",西游记续集
 http://iptv.jxpan.vip:18888/aio/douyu/3113309
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png" group-title="电视剧频道",我是特种兵之利刃出鞘
-http://luobo.bkpcp.top/yy/37999586
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="电视剧频道",狂飙
-http://luobo.bkpcp.top/yy/1355142167
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/三国演义.png" group-title="电视剧频道", 三国演义
-http://iptv.jxpan.vip:18888/aio/huya/11602081
-#https://lunbo.freetv.top/yy/1354930932
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",西游记
-http://iptv.jxpan.vip:18888/aio/huya/26355861
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/新白娘子传奇.png" group-title="电视剧频道", 新白娘子传奇
-http://luobo.bkpcp.top/yy/1354490667
-#http://luobo.bkpcp.top/yy/1354490667
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/乌龙闯情关.png" group-title="电视剧频道",乌龙闯情关
-http://iptv.jxpan.vip:18888/aio/huya/26355767
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",柳舟计
-http://iptv.jxpan.vip:18888/aio/huya/23860039
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",与凤行
-http://iptv.jxpan.vip:18888/aio/huya/26355866
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",大秦赋
-http://iptv.jxpan.vip:18888/aio/huya/23903130
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",永夜星河
-http://iptv.jxpan.vip:18888/aio/huya/23734169
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",流水迢迢
-http://iptv.jxpan.vip:18888/aio/huya/23865036
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",唐诡之西行
-http://iptv.jxpan.vip:18888/aio/huya/26355763
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",玫瑰的故事
-http://iptv.jxpan.vip:18888/aio/huya/23865142
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",梦中的那片海
-http://iptv.jxpan.vip:18888/aio/huya/26355765
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",知否知否
-http://luobo.bkpcp.top/yy/21881901
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",父母爱情
-http://luobo.bkpcp.top/yy/1354926650
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",欢乐颂
-http://luobo.bkpcp.top/yy/1382735624
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",康熙微服私访记
-http://iptv.jxpan.vip:18888/aio/huya/11342418
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",如懿传
-http://iptv.jxpan.vip:18888/aio/huya/29465868
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",芈月传
-http://iptv.jxpan.vip:18888/aio/huya/11352975
 
 #APTV专享
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="APTV专享",CGTN英语
@@ -266,10 +199,6 @@ http://iptv.jxpan.vip:18888/aio/huya/30080233
 http://iptv.jxpan.vip:18888/aio/huya/29465859
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",活佛济公3
 http://iptv.jxpan.vip:18888/aio/huya/23903123
-#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",天龙八部
-http://luobo.bkpcp.top/yy/1351814644
-#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",鹿鼎记
-http://luobo.bkpcp.top/yy/28265277
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",寻秦记
 http://iptv.jxpan.vip:18888/aio/huya/29465848
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",大唐双龙传
@@ -282,8 +211,6 @@ http://iptv.jxpan.vip:18888/aio/huya/23824164
 http://iptv.jxpan.vip:18888/aio/huya/23734246
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",笑傲江湖
 http://iptv.jxpan.vip:18888/aio/huya/23865142
-#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",谈判专家
-http://luobo.bkpcp.top/yy/1382735560
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",刑事侦缉档案
 http://iptv.jxpan.vip:18888/aio/huya/29465856
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",法政先锋
@@ -310,5 +237,7 @@ http://iptv.jxpan.vip:18888/aio/huya/23865161
 http://iptv.jxpan.vip:18888/aio/huya/23863796
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",笑看风云
 http://iptv.jxpan.vip:18888/aio/huya/29465858
+
+
 
 
